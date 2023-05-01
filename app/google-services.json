@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "830937662981",
+    "firebase_url": "https://hikkayat-bulisia-bialtunssi.firebaseio.com",
+    "project_id": "hikkayat-bulisia-bialtunssi",
+    "storage_bucket": "hikkayat-bulisia-bialtunssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830937662981:android:bf2ab93102cc6c5e",
+        "android_client_info": {
+          "package_name": "com.KaaKhabia.deltatechenologie.exoplayerytvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830937662981-uiv66lj4s1af8mlol3j8ie65imr4gpt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KaaKhabia.deltatechenologie.exoplayerytvideo",
+            "certificate_hash": "250d29731226901cc3db599eefc38e16b860d124"
+          }
+        },
+        {
+          "client_id": "830937662981-2lpsqa93u99ar4euamt3hgqu9m68nt7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb46JJWuQrLWdhVCMaLPqP9fqikCSFo-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830937662981-2lpsqa93u99ar4euamt3hgqu9m68nt7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4168864559615120~6080541700"
+    }
+  ],
+  "configuration_version": "1"
+}

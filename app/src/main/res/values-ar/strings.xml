@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">حكايات بوليسية بالتونسي</string>
+
+
+    <string name="elkolfielkot_txt"> الكل في الكل تطبيق فيه الكل في الكل باش تستعمل الخط متاعك بسهولة وتكتشف عروض جديدة.</string>
+    <string name="recharger_facilement_txt">تفد كي تجي تصب كارطة و إلاّ تضيع وقت  ساهل بارشة  تطبيق شرجي بسهولة يعاونك باش تشرجي كارطك.</string>
+    <string name="tetromino_txt">واحدة من أفضل الألعاب على بلاي ستور لا تتردد في تجربتها وإبداء رأيك معنا.</string>
+
+
+    <string name="language_title">إختيار اللغة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="close">إغلاق</string>
+
+    <string name="internet_state_title">شبكة الانترنت</string>
+    <string name="internet_state_message">يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى!</string>
+    <string name="ok">إعادة المحاولة</string>
+
+    <string name="cancel_title">خروج من التطبيق</string>
+    <string name="cancel_message">هل تريد الخروج من التطبيق ؟</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+
+    <string name="bt_back">لاحقا</string>
+    <string name="bt_continue">متابعة</string>
+
+    <string name="share_title">نشرالتطبيق</string>
+    <string name="share_message">هل أعجبتك القصص البوليسية في هذا التطبيق وتريد مشاركتها  مع أصدقائك ؟</string>
+
+    <string name="rate_title">تقييم التطبيق</string>
+    <string name="rate_message">رأيك يهمنا! من فضلك قم بتقييم التطبيق وأترك تعليقك لتشجيعنا على تحسن العمل في المستقبل.</string>
+
+    <string name="share_with">مشاركة التطبيق مع:</string>
+
+    <string name="share_ytvideo_message">واحدة من أروع القصص البوليسية عبر التاريخ  </string>
+    <string name="share_ytvideo_dialog_title">نشر الفيديو</string>
+    <string name="share_ytvideo_dialog_message">هل أعجبتك هذه القصة و تريد مشاركتها  مع أصدقائك ؟</string>
+
+    <string name="item1_actinbar">بلاي ستور</string>
+    <string name="item2_actinbar">إختيار اللغة</string>
+    <string name="item3_actinbar">سياسة الخصوصية</string>
+    <string name="item4_actinbar">نشرالتطبيق</string>
+
+    <string name="fab_lable1">نشر</string>
+    <string name="fab_lable2">تقييم</string>
+    <string name="fab_lable3">خروج</string>
+
+    <string name="visit_ytchannel_bt">قناتنا على\nاليوتيوب</string>
+
+    <string name="tab_title_vd">الفيديوات</string>
+    <string name="tab_title_others">أشياء أخرى</string>
+
+    <string name="ad_app_id">ca-app-pub-4168864559615120~6080541700</string>
+    <string name="ad_banner_item">ca-app-pub-4168864559615120/2360788545</string>
+    <string name="ad_interstitial">ca-app-pub-4168864559615120/3896806465</string>
+    <string name="ad_video">ca-app-pub-4168864559615120/5018316441</string>
+
+</resources>
